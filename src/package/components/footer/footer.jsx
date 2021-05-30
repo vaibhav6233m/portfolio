@@ -31,23 +31,18 @@ const FooterComponent = () => {
                 <div className={classes.wldLogoGithubLogoContainer}>
                     <a
                         className={classes.logoLink}
-                        href="https://welovedevs.com"
+                        href="https://github.com/vaibhav6233m"
                         target="_blank"
                         rel="noreferrer noopener"
                     >
-                        <Logo className={classes.logo} />
+                        {/* <Logo className={classes.logo} /> */}
                     </a>
                     <Tooltip
-                        title={
-                            <FormattedMessage
-                                id="Footer.github.tooltip"
-                                defaultMessage="Create your own developer profile!"
-                            />
-                        }
+                        title={<FormattedMessage id="Footer.github.tooltip" defaultMessage="Find me at Github!" />}
                     >
                         <a
                             className={classes.githubLink}
-                            href="https://github.com/welovedevs/developer-profile"
+                            href="https://github.com/vaibhav6233m"
                             target="_bank"
                             rel="noreferer noopener"
                         >
@@ -62,18 +57,19 @@ const FooterComponent = () => {
 
     return (
         <div className={classes.container}>
-            <a className={classes.logoLink} href="https://welovedevs.com" target="_blank" rel="noreferrer noopener">
-                <Logo className={classes.logo} />
+            <a
+                className={classes.logoLink}
+                href="https://github.com/vaibhav6233m"
+                target="_blank"
+                rel="noreferrer noopener"
+            >
+                {/* <Logo className={classes.logo} /> */}
             </a>
             <ShareLinks />
-            <Tooltip
-                title={
-                    <FormattedMessage id="Footer.github.tooltip" defaultMessage="Create your own developer profile!" />
-                }
-            >
+            <Tooltip title={<FormattedMessage id="Footer.github.tooltip" defaultMessage="Find me at Github!" />}>
                 <a
                     className={classes.githubLink}
-                    href="https://github.com/welovedevs/developer-profile"
+                    href="https://github.com/vaibhav6233m"
                     target="_bank"
                     rel="noreferer noopener"
                 >

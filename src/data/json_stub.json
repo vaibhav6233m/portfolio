@@ -1,54 +1,94 @@
 {
     "basics": {
-        "name": "John Doe",
+        "name": "Vaibhav Bhavsar",
         "label": "Programmer",
-        "picture": "",
-        "email": "john.doe@mail.com",
-        "phone": "(912) 555-4321",
-        "website": "http://johndoe.com",
-        "summary": "A summary of John Doe...",
+        "picture": "/logo623.jpg",
+        "email": "vaibhavbhavsar62@gmail.com",
+        "phone": "",
+        "website": "https://vaibhav6233m.github.io/",
+        "summary": "Full Stack Developer",
         "location": {
-            "address": "2712 Broadway St",
-            "postalCode": "CA 94115",
-            "city": "San Francisco",
-            "countryCode": "US",
-            "region": "California"
+            "address": "",
+            "postalCode": "411057",
+            "city": "Pune, IN",
+            "countryCode": "IN",
+            "region": "Maharashtra",
+            "name": "Pune, IN"
         },
         "profiles": [
+            { "network": "Github", "username": "vaibhav6233m", "url": "https://github.com/vaibhav6233m" },
             {
-                "network": "Twitter",
-                "username": "john",
-                "url": "http://twitter.com/john"
+                "network": "LinkedIn",
+                "username": "vaibhav-bhavsar-000bb276",
+                "url": "https://www.linkedin.com/in/vaibhav-bhavsar-000bb276"
+            },
+            {
+                "network": "StackOverFlow",
+                "username": "6233893/vaibhav-bhavsar",
+                "url": "https://stackoverflow.com/users/6233893/vaibhav-bhavsar"
             }
         ]
     },
     "work": [
         {
-            "name": "Samsung Engineering",
-            "position": "3D Cad Engineer",
-            "website": "http://company.com",
-            "startDate": "2014-01-01",
-            "summary": "Description...",
-            "location": "Paris, France",
-            "highlights": ["Started the company"]
+            "name": "MSCI INC.",
+            "position": "Associate",
+            "website": "https://www.msci.com/",
+            "startDate": "2020-09-28",
+            "summary": "MSCI is a leading provider of critical decision support tools and services for the global investment community",
+            "location": "Pune, India",
+            "highlights": [
+                "Development of frontend applications using React.js framework around the finance domain in collaboration with Microsoft.",
+                "Producing clean, efficient code based on specifications.",
+                "Worked closely with software development and testing team members to design and develop robust solutions to meet client requirements for functionality, scalability and performance.",
+                "Integrate software components and third-party programs."
+            ]
         },
         {
-            "name": "What a nice office",
-            "position": "President",
-            "website": "http://company.com",
-            "startDate": "2013-01-01",
-            "endDate": "2014-01-01",
-            "summary": "Description...",
-            "location": "Paris, France",
-            "highlights": ["Started the company"]
+            "name": "CALSOFT INC.",
+            "position": "Senior Software Development Engineer",
+            "website": "https://www.calsoftinc.com/",
+            "startDate": "2019-07-01",
+            "summary": "Calsoft is the preferred product engineering services partner to ISVs in the Storage, Networking, Virtualization, Cloud, IoT, and Analytics domains.",
+            "location": "Pune, India",
+            "highlights": [
+                "Developing frontend applications using Vue.js framework as per client's requirements",
+                "Integrate software components and third-party programs.",
+                "Estimated work hours and tracked progress using Scrum methodology.",
+                "Stay up-to-date on emerging technologies."
+            ]
         },
         {
-            "name": "What a nice experience",
-            "position": "Lead dev",
-            "website": "http://company.com",
-            "summary": "Description...",
-            "location": "Paris, France",
-            "highlights": ["Started the company"]
+            "name": "WINJIT TECHNOLOGIES PVT. LTD.",
+            "position": "Software Engineer & Full Stack Developer",
+            "website": "https://www.winjit.com/",
+            "startDate": "2017-12-01",
+            "summary": "Winjit specializes in designing strategic, state-of-the-art, AI-first approach solutions to all business problems.",
+            "location": "Nashik, India",
+            "highlights": [
+                "Code, test and operate JavaScript/Python based services",
+                "Build customer-facing UI and back-end services in NodeJs and Python.",
+                "Define code architecture decisions to support a high-performance and scalable product.",
+                "Troubleshoot, debug and upgrade existing software.",
+                "Responsible for the dealing with problems, defect, ﬁxing and troubleshooting.",
+                "Build reusable code and libraries for future use."
+            ]
+        },
+        {
+            "name": "SUPER SIMPLE SOFTWARE LLP.",
+            "position": "Software Developer",
+            "website": "https://www.supersimplesoft.com/",
+            "startDate": "2017-12-01",
+            "summary": "Super Simple Software is a software development company with a wide range of software development consultancy services. Cloud development, IoT, Machine Learning, Web App Development, Mobile App Development, Software Testing, and Technical Support.",
+            "location": "Nashik, India",
+            "highlights": [
+                "Produce clean, efficient code based on specifications.",
+                "Develop and implement new ERP software programs in Python/XML based framework Testing and deploying programs and systems.",
+                "Work with developers to design algorithms and flowcharts.",
+                "Create technical documentation for reference and reporting.",
+                "Maintain and improve the performance of existing software.",
+                "Collaborate well with engineers to design and create advanced, elegant and efficient systems."
+            ]
         }
     ],
     "volunteer": [
@@ -63,32 +103,17 @@
     ],
     "education": [
         {
-            "institution": "ISEN",
-            "area": "Software Development",
-            "studyType": "Engineer Degree",
+            "institution": "SINHGAD COLLEGE OF ENGINEERING",
+            "area": "Information Technology",
+            "studyType": "Bachelor of Engineering",
             "startDate": "2011-01-01",
-            "endDate": "2013-01-01",
+            "endDate": "2015-01-01",
             "gpa": "4.0",
-            "courses": ["DB1101 - Basic SQL"]
-        },
-        {
-            "institution": "Université d'artois",
-            "area": "",
-            "studyType": "",
-            "startDate": "2011-01-01",
-            "endDate": "",
-            "gpa": "4.0",
-            "courses": ["DB1101 - Basic SQL"]
+            "courses": ["DB1101 - Basic SQL"],
+            "id": "d39c3d1d-5c4b-4e6d-a6e8-573b89d36575"
         }
     ],
-    "awards": [
-        {
-            "title": "Award",
-            "date": "2014-11-01",
-            "awarder": "Company",
-            "summary": "There is no spoon."
-        }
-    ],
+    "awards": [{ "title": "Award", "date": "2014-11-01", "awarder": "Company", "summary": "There is no spoon." }],
     "publications": [
         {
             "name": "Publication",
@@ -99,71 +124,79 @@
         }
     ],
     "skills": [
+        { "name": "Javascript", "index": 0, "value": 85, "id": "c8445835-f0ba-4c1c-aa4c-fb2728d8943c" },
         {
             "name": "React",
             "level": "Master",
-            "value": 100,
-            "keywords": ["HTML", "CSS", "Javascript"]
-        },
-        {
-            "name": "Angular",
-            "level": "Master",
-            "value": 80,
-            "keywords": ["HTML", "CSS", "Javascript"]
+            "value": 85,
+            "keywords": ["HTML", "CSS", "Javascript"],
+            "index": 1,
+            "id": "a0346a93-0338-4a6e-921b-f98d55a899c7"
         },
         {
             "name": "NodeJS",
             "level": "Master",
-            "value": 40,
-            "keywords": ["HTML", "CSS", "Javascript"]
+            "value": 85,
+            "keywords": ["HTML", "CSS", "Javascript"],
+            "index": 2,
+            "id": "2e4ba148-0a38-421d-9722-e6b42ee23c7e"
+        },
+        { "name": "vueJS", "index": 3, "value": 80, "id": "fd1b6dfa-877f-4b3b-b836-a7f34507c626" },
+        { "name": "CSS3", "index": 4, "value": 75, "id": "a6f08dea-6708-4917-9894-fd68403d16e3" },
+        { "name": "HTML5", "index": 5, "value": 80, "id": "c2176937-7a85-414b-9a98-449cc7c80bdb" },
+        { "name": "Git", "index": 6, "value": 85, "id": "883b026b-ab5f-42a4-8db7-c80692029d3a" },
+        { "name": "Azure", "index": 7, "value": 70, "id": "45843647-cbc5-4bc0-801a-4f92dcc4e4f5" },
+        { "name": "Docker", "index": 8, "value": 70, "id": "f0c7bac3-04cd-4d0f-b05a-35b31270c940" },
+        { "name": "Amazon Web Services", "index": 9, "value": 50, "id": "99d944c3-9bd1-4c16-a9f1-a2b13d725ced" },
+        { "name": "MongoDB", "index": 10, "value": 50, "id": "efe6015e-9603-4485-ac10-2b0e0ce347eb" },
+        { "name": "Electron", "index": 11, "value": 50, "id": "9e00e679-9851-41ab-8234-d981451e2948" }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "value": 100,
+            "fluency": "Native speaker",
+            "id": "803c7bff-47d4-4cd5-9c5a-25c58f8d7aa1",
+            "index": 0
         },
         {
-            "name": "Firebase",
-            "level": "Master",
-            "value": 60,
-            "keywords": ["HTML", "CSS", "Javascript"]
-        },
-        {
-            "name": "Gmail",
-            "level": "Master",
-            "value": 20,
-            "keywords": ["HTML", "CSS", "Javascript"]
-        },
-        {
-            "name": "K8S",
-            "level": "Master",
-            "value": 80,
-            "keywords": ["HTML", "CSS", "Javascript"]
+            "language": "German",
+            "value": 30,
+            "fluency": "Native speaker",
+            "id": "06fd5702-e9ed-4131-ac66-9c86999401c2",
+            "index": 1
         }
     ],
-    "languages": [{ "language": "English", "value": 100, "fluency": "Native speaker" }, { "language": "Italien", "value": 15, "fluency": "Native speaker" } ],
     "interests": [
         {
-            "name": "France europe gif by nike football",
-            "gifUrl": "https://media1.giphy.com/media/3oD3YooLLYg0AfOPdK/giphy-downsized.gif?cid=f7fb5bbaegu1ofs48lty41dyowqsfo0wq9qq8h4czot7rwm1&rid=giphy-downsized.gif",
+            "name": "Traveling",
+            "gifUrl": "https://media.giphy.com/media/WGUi5HbuAAz31tORGq/giphy.gif",
             "id": "afa5739f-f868-464e-a1aa-18f5a3ff4e2b",
             "gifUser": {
                 "name": "Nike Football",
                 "profileUrl": "https://giphy.com/nikefootball/",
                 "isVerified": true,
                 "profileAvatarUrl": "https://media1.giphy.com/avatars/nikefootball/vPyZcrShcXY8.jpg"
-            }
+            },
+            "index": 0
         },
         {
-            "name": "Burritos",
-            "gifUrl": "https://media.giphy.com/media/d8WjGORtSEWqc/giphy.gif"
-        },
-
-        {
-            "name": "Tendresse",
-            "gifUrl": "https://media.giphy.com/media/EehnUUCH2JcwU/giphy.gif"
+            "index": 1,
+            "id": "b66b0210-4996-4e14-97c6-215b84d99da2",
+            "gifUrl": "https://media.giphy.com/media/ftvphb1LgYP9SgoNGn/giphy.gif",
+            "name": "Cycling"
         },
         {
-            "name": "Something",
-            "gifUrl": "https://media.giphy.com/media/xTiTnIuKP1BLsMTerS/giphy.gif"
+            "name": "Badminton",
+            "id": "ba16113f-9fbf-48ee-a007-2d8a91fe4119",
+            "index": 2,
+            "gifUrl": "https://media.giphy.com/media/PkWQsSnYDeqWjaWpoo/giphy.gif"
         },
         {
-            "name": "J'aime faire de la course à pied et des randonnées en famille le weekend."
+            "index": 3,
+            "id": "f8b1ffc3-9b63-431a-b34a-9e0fdced04b5",
+            "gifUrl": "https://media.giphy.com/media/l2JHVUT1qK2b00CCk/giphy.gif",
+            "name": "Gaming"
         }
     ],
     "references": [{ "name": "Jane Doe", "reference": "Reference..." }],
@@ -242,54 +275,84 @@
     "specific": {
         "basics": {
             "visaSponsorship": true,
-            "personalDescription": "This is a longer description of me, of my backstory, my backyard, my backfire, my backend, my frontend and my friends."
+            "personalDescription": "Software Engineer with around 6 years experience specializing in the backend, frontend UI, and Cross-platform desktop application development. Possess comprehensive knowledge of JavaScript with a solid understanding of asynchronous programming. A super nerd who enjoys customizing the development environment. Interested in devising a better problem-solving method for challenging tasks, and learning new technologies and tools if the need arises."
         },
         "dreamJob": {
-            "locations": [
-                { "name": "Valenciennes, France" },
-                { "name": "Lille, France" },
-                { "name": "Paris,France" }
-            ],
-            "remoteFrequency": "regularly"
+            "locations": [{ "name": "Germany", "id": "e66030e6-6c98-4078-9803-e24b902b4a3f", "index": 0 }],
+            "remoteFrequency": "regularly",
+            "perks": { "mood": true, "challenge": true, "responsabilities": true },
+            "salary": "70000"
         },
-        "currentJob": {
-            "issues": { "boring_management": true, "boring_team": true }
-        },
-        "education": { "studiesLevel": 5 },
+        "currentJob": { "issues": { "boring_management": true, "boring_team": true, "no_challenge": true } },
+        "education": { "studiesLevel": 4 },
         "work": {
             "contractTypes": ["permanent"],
             "codingYears": 7,
-            "codingReason": "J'ai commencé à coder sur Amstrad dans ma cave et je n'ai jamais arrêté depuis",
+            "codingReason": "Curiosity.  Coding helps me go into a state of Flow and I enjoy the mental challenge of making things. ",
             "searchState": "activelySearching",
             "experienceYears": 0,
-            "codeExperienceYears": 1,
-            "otherExperienceYears": 1
+            "codeExperienceYears": 6,
+            "otherExperienceYears": 0
         },
-        "sound": {
-            "embedUrl": "https://open.spotify.com/embed/playlist/37i9dQZF1DWWl7MndYYxge"
-        },
+        "sound": { "embedUrl": "https://open.spotify.com/embed/playlist/37i9dQZF1DWWl7MndYYxge" },
         "interestedBy": "Angular, la blochain et les chatons."
     },
     "resumeCustomization": {
-        "imageHeader": {
-            "url": "https://cdn.filestackcontent.com/8I2wVnCRTFxypXRYLRsp",
-            "alt": "Default Banner"
-        },
+        "imageHeader": { "url": "https://cdn.filestackcontent.com/8I2wVnCRTFxypXRYLRsp", "alt": "Default Banner" },
         "cardsOrder": [
-            { "type": "basics", "variant": 4 },
+            { "type": "basics", "variant": 3 },
             { "type": "projects", "variant": 4 },
             { "type": "skills", "variant": 0 },
-            { "type": "dreamjob", "variant": 4 },
-            { "type": "experiences", "variant": 4 },
+            { "type": "dreamjob", "variant": 2 },
+            { "type": "experiences", "variant": 3 },
             { "type": "studies", "variant": 4 },
             { "type": "gifs", "variant": 0 },
-            { "type": "interestedBy", "variant": 3 },
-            { "type": "language", "variant": 4 },
+            { "type": "interestedBy", "variant": 2 },
+            { "type": "language", "variant": 3 },
             { "type": "soundtrack", "variant": 4 }
         ],
-        "fields": {
-            "work": {
-                "customDateFormat": "YYYY"
+        "fields": { "work": { "customDateFormat": "YYYY" } },
+        "theme": {
+            "palette": {
+                "primary": {
+                    "50": "#ebebeb",
+                    "100": "#d6d7d7",
+                    "200": "#aeafaf",
+                    "300": "#858888",
+                    "400": "#5d6060",
+                    "500": "#343838",
+                    "600": "#2a2d2d",
+                    "700": "#1f2222",
+                    "800": "#151616",
+                    "900": "#0a0b0b",
+                    "contrastDefaultColor": "light"
+                },
+                "secondary": {
+                    "50": "#e6eff0",
+                    "100": "#ccdfe1",
+                    "200": "#99bfc4",
+                    "300": "#669fa6",
+                    "400": "#337f89",
+                    "500": "#005f6b",
+                    "600": "#004c56",
+                    "700": "#003940",
+                    "800": "#00262b",
+                    "900": "#001315",
+                    "contrastDefaultColor": "light"
+                },
+                "tertiary": {
+                    "50": "#e6f4f5",
+                    "100": "#cce8ec",
+                    "200": "#99d1d8",
+                    "300": "#66bac5",
+                    "400": "#33a3b1",
+                    "500": "#008c9e",
+                    "600": "#00707e",
+                    "700": "#00545f",
+                    "800": "#00383f",
+                    "900": "#001c20",
+                    "contrastDefaultColor": "light"
+                }
             }
         }
     }
