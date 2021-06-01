@@ -9,11 +9,11 @@ Deploying this component on your own server is a very valid option 😁
 
 ## First Fork Us !
 
-Use the fork button on [the main project](https://github.com/welovedevs/react-ultimate-resume)
+Use the fork button on [the main project](https://github.com/welovedevs/portfolio)
 
-You get your very own fork of the [project like mine](https://github.com/thedamfr/react-ultimate-resume).
+You get your very own fork of the [project like mine](https://github.com/thedamfr/portfolio).
 
-[![My Fork Preview](https://cdn.filestackcontent.com/compress/zyZVEY7oQpiWtG8TpNVH)](https://github.com/thedamfr/react-ultimate-resume)
+[![My Fork Preview](https://cdn.filestackcontent.com/compress/zyZVEY7oQpiWtG8TpNVH)](https://github.com/thedamfr/portfolio)
 
 `git clone` this fork
 
@@ -23,7 +23,7 @@ Enter the repository and run `yarn install` and open it your favorite code edito
 
 JSONResume is an open scheme for resume. We added a few extra fields, refer to the main documentation to learn more.
 
-Export your JSONResume from WeLoveDevs.com or any website supporting the schema.
+Export your JSONResume from vaibhav6233m.github.io or any website supporting the schema.
 
 I highly recommend working on a separate branch with you own data.
 

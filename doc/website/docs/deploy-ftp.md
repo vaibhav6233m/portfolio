@@ -21,6 +21,6 @@ And tada : https://www.damien-cavailles.fr/
 
 ## Let us know about it !
 
-Send us an email to show us what you've built : yourfriends@welovedevs.com
+Send us an email to show us what you've built : yourfriends@vaibhav6233m.github.io
 
 Join us on [Discord](https://discord.gg/udbbbAq) !

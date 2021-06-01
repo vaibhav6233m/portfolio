@@ -7,14 +7,14 @@ title: Deploy on Github
 
 Github Pages is great and reliable. Since your fork is public, you can have a gh-pages attached for free.
 
-Your page is going to be on a domain following this pattern `https://{your_github_username}.github.io/react-ultimate-resume/`
+Your page is going to be on a domain following this pattern `https://{your_github_username}.github.io/portfolio/`
 
 `create-react-app` is supporting `gh-pages` out of the box and we made it even easier for you.
 
 Everything is included in dependencies. It's only two step 👍
 
 First :
-Add a homepage field in the `package.json` : `"homepage" : "https://{your_github_username}.github.io/react-ultimate-resume/"`
+Add a homepage field in the `package.json` : `"homepage" : "https://{your_github_username}.github.io/portfolio/"`
 
 Then : `yarn gh-deploy`
 
@@ -23,7 +23,7 @@ yarn run v1.22.4
 $ yarn build && gh-pages build -D
 $ react-scripts build
 Creating an optimized production build...
-[BABEL] Note: The code generator has deoptimised the styling of /Users/thedamfr/dev/project/react-ultimate-resume/src/package/assets/cards/hobbies.svg as it exceeds the max of 500KB.
+[BABEL] Note: The code generator has deoptimised the styling of /Users/thedamfr/dev/project/portfolio/src/package/assets/cards/hobbies.svg as it exceeds the max of 500KB.
 [BABEL] Note: The code generator has deoptimised the styling of undefined as it exceeds the max of 500KB.
 Compiled with warnings.
 
@@ -41,7 +41,7 @@ The bundle size is significantly larger than recommended.
 Consider reducing it with code splitting: https://goo.gl/9VhYWB
 You can also analyze the project dependencies: https://goo.gl/LeUzfb
 
-The project was built assuming it is hosted at /react-ultimate-resume/.
+The project was built assuming it is hosted at /portfolio/.
 You can control this with the homepage field in your package.json.
 
 The build folder is ready to be deployed.
@@ -54,10 +54,10 @@ Published
 ✨  Done in 36.29s.
 ```
 
-And here we go : https://thedamfr.github.io/react-ultimate-resume/
+And here we go : https://thedamfr.github.io/portfolio/
 
 ## Let us know about it !
 
-Send us an email to show us what you've built : yourfriends@welovedevs.com
+Send us an email to show us what you've built : yourfriends@vaibhav6233m.github.io
 
 Join us on [Discord](https://discord.gg/udbbbAq) !

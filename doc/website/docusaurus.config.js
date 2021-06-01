@@ -4,21 +4,21 @@ require('dotenv').config({ path: `.env.${process.env.NODE_ENV || 'local'}` });
 module.exports = {
     title: 'React Ultimate Resume',
     tagline: 'Our vision for a clean looking and awesome react-powered dev resume.',
-    url: 'https://welovedevs.com/app',
+    url: 'https://vaibhav6233m.github.io/app',
     baseUrl: process.env.BASE_PATH || '/',
     favicon: 'img/favicon.ico',
     organizationName: 'welovedevs', // Usually your GitHub org/user name.
-    projectName: 'react-ultimate-resume', // Usually your repo name.
+    projectName: 'portfolio', // Usually your repo name.
     themeConfig: {
         navbar: {
             title: 'Docs',
             logo: {
                 alt: 'WeLoveDevs Logo',
-                src: 'https://welovedevs.com/wp-content/uploads/2019/12/logo-menu-welovedevs-220bad.svg'
+                src: 'https://vaibhav6233m.github.io/wp-content/uploads/2019/12/logo-menu-welovedevs-220bad.svg'
             },
             items: [
                 {
-                    href: 'https://welovedevs.com/inspiration',
+                    href: 'https://vaibhav6233m.github.io/inspiration',
                     label: 'Blog',
                     position: 'right'
                 }
@@ -41,7 +41,7 @@ module.exports = {
                     items: [
                         {
                             label: 'Blog',
-                            href: 'https://welovedevs.com/inspiration'
+                            href: 'https://vaibhav6233m.github.io/inspiration'
                         },
                         {
                             label: 'GitHub',
@@ -54,7 +54,7 @@ module.exports = {
                     ]
                 }
             ],
-            copyright: `Copyright © ${new Date().getFullYear()} WeLoveDevs.com. Built with Docusaurus.`
+            copyright: `Copyright © ${new Date().getFullYear()} vaibhav6233m.github.io. Built with Docusaurus.`
         },
         googleAnalytics: {
             trackingID: 'UA-71913303-3'

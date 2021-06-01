@@ -7,7 +7,7 @@ export const translations = defineMessages({
     },
     companyNamePlaceholder: {
         id: 'Experiences.editDialog.companyName.placeholder',
-        defaultMessage: 'Example : WeLoveDevs.com (optional)'
+        defaultMessage: 'Example : vaibhav6233m.github.io (optional)'
     },
     stillEmployed: {
         id: 'Experiences.editDialog.stillEmployed',

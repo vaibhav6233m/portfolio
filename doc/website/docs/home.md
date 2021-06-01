@@ -11,8 +11,8 @@ sidebar_label: Home
 
 <br />
 
-# react-ultimate-resume by WeLoveDevs.com
-**react-ultimate-resume** is an open-source customizable software developer resume to highlight your skills and experiences.
+# portfolio by vaibhav6233m.github.io
+**portfolio** is an open-source customizable software developer resume to highlight your skills and experiences.
 
 Discover a modern approach of the traditionnal CV that includes animations and latest front-end technologies. Impress recruiters or customers with your projects, hobbies and experiences as never before.
 
@@ -25,7 +25,7 @@ This app is built using the popular [create-react-app](https://github.com/facebo
 
 ### Preview
 
-[![Resume Preview](https://cdn.filestackcontent.com/compress/resize=width:500/rfXY8TNARdao9DdQSaJe)](https://vincent-cotro.welovedevs.com)
+[![Resume Preview](https://cdn.filestackcontent.com/compress/resize=width:500/rfXY8TNARdao9DdQSaJe)](https://vincent-cotro.vaibhav6233m.github.io)
 
 ### Features
 
@@ -76,10 +76,10 @@ Replace the default JSON Resume with yours
 
 You can deploy your resume on your own server in few minutes. Follow our [HOW TO documentation](deploy-fork.md). 
 
-### Hosted for free on WeLoveDevs.com
+### Hosted for free on vaibhav6233m.github.io
 
 Don't want to host your profile ?  
-Create your JSONResume and get your free subdomain in less than 10 minutes by registering on [welovedevs.com](https://welovedevs.com/app/register_developer).
+Create your JSONResume and get your free subdomain in less than 10 minutes by registering on [vaibhav6233m.github.io](https://vaibhav6233m.github.io/app/register_developer).
 
 We added a few extra features that you will love :
 - ⚡ Server side rendering for ultra fast loading
@@ -106,11 +106,11 @@ Chat with us on [Discord](https://discord.gg/udbbbAq) !
 
  ### License
 
-react-ultimate-resume is relased under [GNU AGPL v3 license](https://github.com/welovedevs/developer-profile/blob/master/LICENSE.md)
+portfolio is relased under [GNU AGPL v3 license](https://github.com/welovedevs/developer-profile/blob/master/LICENSE.md)
 
 
 
-## About WeLoveDevs.com
-WeLoveDevs.com is a website crafted for developers (by Developers) looking for new career opportunities.
-More than 1700 companies use WeLoveDevs.com to find their talents.
-Discover your next company [here](https://welovedevs.com/app/companies)
+## About vaibhav6233m.github.io
+vaibhav6233m.github.io is a website crafted for developers (by Developers) looking for new career opportunities.
+More than 1700 companies use vaibhav6233m.github.io to find their talents.
+Discover your next company [here](https://vaibhav6233m.github.io/app/companies)

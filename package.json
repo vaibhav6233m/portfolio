@@ -1,7 +1,7 @@
 {
-    "name": "@welovedevs/react-ultimate-resume",
+    "name": "@vaibhav6233m/portfolio",
     "version": "1.1.6",
-    "description": "Developer profile for W3D",
+    "description": "Developer profile for VaibhavB",
     "main": "lib/index.js",
     "scripts": {
         "start": "touch .env.local && sh -ac 'sh .env.${NODE_ENV:-local}; PORT=${PORT:-3000} EXTEND_ESLINT=true BROWSER=none react-scripts start'",
@@ -23,9 +23,10 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/welovedevs/react-ultimate-resume.git"
+        "url": "git+https://github.com/vaibhav6233m/portfolio.git"
     },
-    "author": "WeLoveDevs.com",
+    "homepage" : "https://vaibhav6233m.github.io/portfolio/",
+    "author": "vaibhav6233m.github.io",
     "license": "AGPLv3",
     "peerDependencies": {
         "@material-ui/core": "^4.11.0",

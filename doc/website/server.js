@@ -7,10 +7,10 @@ const fs = require('fs');
 const app = express();
 
 process
-    .on('unhandledRejection', reason => {
+    .on('unhandledRejection', (reason) => {
         console.error('Unhandled Rejection at Promise', reason);
     })
-    .on('uncaughtException', err => {
+    .on('uncaughtException', (err) => {
         console.error('Uncaught Exception thrown', err);
         process.exit(1);
     });
@@ -51,10 +51,10 @@ app.use((req, res, next) => {
     next();
 });
 
-const redirect = (req, res) => res.redirect(302, '/react-ultimate-resume/docs/home');
+const redirect = (req, res) => res.redirect(302, '/portfolio/docs/home');
 app.get('/', redirect);
-app.get('/react-ultimate-resume', redirect);
-app.get('/react-ultimate-resume/docs', redirect);
+app.get('/portfolio', redirect);
+app.get('/portfolio/docs', redirect);
 app.get('/docs', redirect);
 
 app.get('*.js', (req, res, next) => {
@@ -72,9 +72,9 @@ app.get('*.css', (req, res, next) => {
 });
 
 app.use(express.static(__dirname + '/build', { maxAge: '25d' }));
-app.use('/react-ultimate-resume', express.static(__dirname + '/build', { maxAge: '25d' }));
+app.use('/portfolio', express.static(__dirname + '/build', { maxAge: '25d' }));
 
-app.get('/react-ultimate-resume/*', (req, res, next) => {
+app.get('/portfolio/*', (req, res, next) => {
     console.log(`${req.originalUrl} matched index.html route`);
     res.setHeader('Content-Type', 'text/html');
     fs.createReadStream(__dirname + '/build/index.html').pipe(res);
