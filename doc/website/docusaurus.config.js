@@ -7,7 +7,7 @@ module.exports = {
     url: 'https://vaibhav6233m.github.io/app',
     baseUrl: process.env.BASE_PATH || '/',
     favicon: 'img/favicon.ico',
-    organizationName: 'welovedevs', // Usually your GitHub org/user name.
+    organizationName: 'vaibhav6233m', // Usually your GitHub org/user name.
     projectName: 'portfolio', // Usually your repo name.
     themeConfig: {
         navbar: {

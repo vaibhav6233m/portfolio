@@ -2,7 +2,7 @@
     "basics": {
         "name": "Vaibhav Bhavsar",
         "label": "Programmer",
-        "picture": "/logo623.jpg",
+        "picture": "/logo623.png",
         "email": "vaibhavbhavsar62@gmail.com",
         "phone": "",
         "website": "https://vaibhav6233m.github.io/",
@@ -263,13 +263,13 @@
         },
         {
             "index": 0,
-            "date": { "month": 6, "year": 2020 },
-            "description": "Application réalisée en 24h (challenge de formation) avec Java JEE et Spring:\nGestion d’un CRUD, création d'une API Rest, ajout d'un environnement de production avec une base de données PostgreSQL hébergée sur Heroku.",
-            "id": "ffb8a4f2-24e6-44ef-bbe7-0593b86d40be",
-            "images": [{ "url": "https://cdn.filestackcontent.com/7XpHKtFTC2VynppurrK5" }],
-            "link": "https://your-todos-list.herokuapp.com/",
-            "name": "Your Todo List",
-            "endDate": "2020-07-01"
+            "date": { "month": 10, "year": 2020 },
+            "description": "ESG Manager (ESGM) is a client-only portal where you can access all MSCI ESG Research products including ESG ClimateRisk, ESG Ratings, ESG Controversies, etc. ClimateRisk Lab is designed to provide corporate and institutional investors transparency into a company's climate-related risks and opportunities, in accordance with the recommendations from the Task Force on Climate related Financial Disclosures (TCFD).",
+            "id": "7f1f4257-e5db-477d-aa5f-ababe0ab0b12",
+            "images": [{ "url": "https://cdn.filestackcontent.com/aBOkTTkCQ66VOHUy0q8L" }],
+            "link": "https://msci.com/",
+            "name": "ESG Manager: ClimateRisk Lab",
+            "endDate": "2020-01-01"
         }
     ],
     "specific": {
